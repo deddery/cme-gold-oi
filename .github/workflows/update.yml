@@ -1,4 +1,5 @@
 name: Update CME Gold Options
+# nudge: re-trigger GitHub's workflow discovery
 
 on:
   workflow_dispatch:

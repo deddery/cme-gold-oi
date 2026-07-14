@@ -1,4 +1,5 @@
 name: Update CFTC COT Gold
+# nudge: re-trigger GitHub's workflow discovery
 
 on:
   workflow_dispatch:
