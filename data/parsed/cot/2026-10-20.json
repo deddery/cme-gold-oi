@@ -1,0 +1,35 @@
+{
+  "report_date": "2026-10-20",
+  "generated_at": "2026-10-23 23:42",
+  "summary": {
+    "report_date": "2026-10-20",
+    "open_interest": 532443,
+    "change_open_interest": 6166,
+    "categories": {
+      "producer_merchant": {
+        "long": 23593,
+        "short": 37174,
+        "net": -13581,
+        "net_change": 4100
+      },
+      "swap_dealers": {
+        "long": 16679,
+        "short": 231662,
+        "net": -214983,
+        "net_change": 3500
+      },
+      "managed_money": {
+        "long": 124476,
+        "short": 15791,
+        "net": 108685,
+        "net_change": -2392
+      },
+      "other_reportables": {
+        "long": 101665,
+        "short": 18560,
+        "net": 83105,
+        "net_change": -5550
+      }
+    }
+  }
+}
